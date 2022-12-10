@@ -1,0 +1,285 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1200px;
+	height: 1500px;
+	margin: 0 auto;
+	/*border: 1px solid black;*/
+	box-shadow: 0 -5px 13px rgb(0 0 0 / 25%);
+}
+.content{
+	width: 1200px;
+	height: 130px;
+	background: #333333;
+}
+.ong-tomon{
+	float: left;
+	width: 600px;
+	height: 130px;
+	/*border: 1px solid black;*/
+}
+.chap-tomon{
+	float: left;
+	width: 595px;
+	height: 130px;
+	/*border: 1px solid black;*/
+}
+.ong-tomon h1{
+	font-family: 'Myriad Pro';
+	color: #fff;
+	margin-left: 70px;
+	line-height: 115px;
+	font-size: 3em;
+	font-weight: 300;
+}
+.chap-tomon a{
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Myriad Pro';
+	line-height: 125px;
+	transition: .5s;
+	margin-left: 15px;
+	font-size: 1.3em;
+}
+.chap-tomon a:hover{
+	color: #0e8dbd;
+}
+.content2{
+	width: 1200px;
+	height: 160px;
+	/*border: 1px solid black;*/
+}
+.text-8{
+	font-family: 'Myriad Pro';
+	margin-left: 70px;
+	line-height: 100px;
+	font-size: 3.2em;
+	font-weight: 900;
+}
+.content2 p{
+	font-family: 'Myriad Pro';
+	margin-left: 70px;
+	line-height: 10px;
+	font-size: 2.5em;
+	font-weight: 400;
+	color: #bbbbbb;
+}
+.content3{
+	width: 1200px;
+	height: 200px;
+	/*border: 1px solid black;*/
+}
+.content3 .top{
+	width: 1050px;
+	height: 4px;
+	margin-left: 70px;
+	border-top:5px dotted #cccccc;
+}
+.text p{
+	margin-left: 70px;
+	font-size: 2.2em;
+	color: #6c6c6c;
+	margin-top: 15px;
+}
+.content3 .bootom{
+	width: 1050px;
+	height: 4px;
+	margin-left: 70px;
+	margin-top: 15px;
+	border-bottom:5px dotted #cccccc;
+}
+.ee{
+	color: #555555;
+	font-weight: 900;
+}
+.rr{
+	color: #555555;
+	font-weight: 900;
+}
+.content4{
+	width: 1200px;
+	height: 430px;
+	/*border: 1px solid black;*/
+	margin-top: 18px;
+}
+.content4 .tort1{
+	float: left;
+	width: 300px;
+	height: 400px;
+	/*border: 1px solid black;*/
+	margin-left: 70px;
+	background: #00aeef;
+	box-shadow: 0 5px 12px rgb(0 0 0 / 50%);
+}
+.content4 .tort2{
+	float: left;
+	width: 300px;
+	height: 400px;
+	margin-left: 75px;
+	/*border: 1px solid black;*/
+	background: #00aeef;
+	box-shadow: 0 5px 12px rgb(0 0 0 / 50%);
+}
+.content4 .tort3{
+	float: left;
+	width: 300px;
+	margin-left: 75px;
+	height: 400px;
+	/*border: 1px solid black;*/
+	background: #00aeef;
+	box-shadow: 0 5px 12px rgb(0 0 0 / 50%);
+}
+.tort1 h1{
+	color: #fff;
+	text-align: center;
+	font-family: 'Myriad Pro';
+	font-size: 2.3em;
+	font-weight: 200;
+	line-height: 80px;
+}
+.top2{
+	width: 220px;
+	height: 3px;
+	margin-left: 40px;
+	border-top:5px dotted #fff;
+}
+.tort1 p{
+	font-family: 'Arial';
+	text-align: center;
+	font-size: .9em;
+	color: #fff;
+	margin-top: 20px;
+	line-height: 25px;
+}
+.tort1 button{
+	width: 180px;
+	height: 50px;
+	background: #0076a3;
+	color: #fff;
+	margin-top: 50px;
+	margin-left: 60px;
+}
+.tort2 h1{
+	color: #fff;
+	text-align: center;
+	font-family: 'Myriad Pro';
+	font-size: 2.3em;
+	font-weight: 200;
+	line-height: 80px;
+}
+.top3{
+	width: 220px;
+	height: 3px;
+	margin-left: 40px;
+	border-top:5px dotted #fff;
+}
+.tort2 p{
+	font-family: 'Arial';
+	text-align: center;
+	font-size: .9em;
+	color: #fff;
+	margin-top: 20px;
+	line-height: 25px;
+}
+.tort2 button{
+	width: 180px;
+	height: 50px;
+	background: #0076a3;
+	color: #fff;
+	margin-top: 50px;
+	margin-left: 60px;
+}
+.tort3 h1{
+	color: #fff;
+	text-align: center;
+	font-family: 'Myriad Pro';
+	font-size: 2.3em;
+	font-weight: 200;
+	line-height: 80px;
+}
+.top4{
+	width: 220px;
+	height: 3px;
+	margin-left: 40px;
+	border-top:5px dotted #fff;
+}
+.tort3 p{
+	font-family: 'Arial';
+	text-align: center;
+	font-size: .9em;
+	color: #fff;
+	margin-top: 20px;
+	line-height: 25px;
+}
+.tort3 button{
+	width: 180px;
+	height: 50px;
+	background: #0076a3;
+	color: #fff;
+	margin-top: 50px;
+	margin-left: 60px;
+}
+.content5{
+	width: 1200px;
+	height: 500px;
+	margin-top: 30px;
+	/*border: 1px solid black;*/
+}
+.top8{
+	width: 1050px;
+	height: 5px;
+	margin-left: 70px;
+	border-top:5px dotted #cccccc;
+}
+.ong-tomon2{
+	float: left;
+	width: 600px;
+	height: 500px;
+	/*border: 1px solid black*/
+}
+.chap-tomon2{
+	width: 1050px;
+	height: 480px;
+	margin-left: -450px;
+	margin-top: -460px;
+	border-right:5px dotted #cccccc;
+}
+.text-1{
+	margin-left: 70px; 
+	line-height: 50px;
+	 font-size: 2em; 
+	 font-weight: 300;
+	 font-family: 'Myriad Pro';
+}
+.tort-bur1{
+	margin-left: 
+	70px;width: 80px;
+	height: 90px;
+	background: #cccccc;
+	margin-top: 20px;
+}
+.text-2{
+	margin-left: 
+	170px; margin-top: -90px;
+	color: #555555;
+	font-family: 'Myriad Pro';
+}
+.text-3{
+	margin-left: 170px;
+	 margin-top: 10px;
+	 font-family: 'Myriad Pro';
+}
+.text-4{
+	margin-left: 170px; 
+	margin-top: 8px;
+	 color: #11b3f0;
+	 font-family: 'Myriad Pro';
+}
+.rree{
+	width: 1050px;
+	height: 5px;
+	margin-left: 70px;
+	border-bottom:5px dotted #cccccc;
+}
